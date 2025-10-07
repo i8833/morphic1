@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { generateId } from 'ai'
 
 import { getModels } from '@/lib/config/models'
